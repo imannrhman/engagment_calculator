@@ -4,9 +4,10 @@ Application for calculate engagement in instagram
 
 ## Screenshots
 
+<img src="screenshots/route-detail_driver.png" height="300em"/>   <img src="screenshots/search_user.png" height="300em"/>   <img src="screenshots/payment.png" height="300em"/>
+
 <img src="screenshots/home.png" height="300em"/>   <img src="screenshots/result.png" height="300em"/>   <img src="screenshots/route-nearest_driver.png" height="300em"/>
 
-<img src="screenshots/route-detail_driver.png" height="300em"/>   <img src="screenshots/search_user.png" height="300em"/>   <img src="screenshots/payment.png" height="300em"/>
 
 
 
