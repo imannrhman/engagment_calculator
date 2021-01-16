@@ -1,0 +1,39 @@
+name: engagment_calculator
+description: Engagment Calculator App
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0+2
+  flutter_bloc: ^2.1.1
+  rxdart: ^0.22.6
+  equatable: ^1.0.1
+  flutter_spinkit: ^4.1.0
+  flutter_svg: ^0.19.1
+  flutter_launcher_icons: ^0.7.4
+  intl: ^0.16.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/icon/
+   - assets/image/
+
+  fonts:
+    - family: WorkSans
+      fonts:
+        - asset: assets/font/worksans_regular.ttf
+        - asset: assets/font/worksans_medium.ttf
+          weight: 500
+        - asset: assets/font/worksans_semibold.ttf
+          weight: 600
+        - asset: assets/font/worksans_bold.ttf
+          weight: 700
